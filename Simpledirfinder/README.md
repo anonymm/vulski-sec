@@ -1,6 +1,6 @@
 #  Vulski – Ethical Hacker & Pentester from Android
 
-##  Tools I Use in Android (via Termux)
+##  Tools Use in Android (via Termux)
 - `sqlmap`, `nmap`, `hydra`, `dirsearch`, `nikto`
 
 ##  Projects
